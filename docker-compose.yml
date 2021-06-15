@@ -32,7 +32,6 @@ services:
         image: mysql:latest
         volumes: 
             - database:/var/lib/mysql
-            - ./logs/mysql:/var/log/mysql
         restart: always
         environment: 
             MYSQL_DATABASE: wordpress
