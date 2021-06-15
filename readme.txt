@@ -9,6 +9,10 @@ docker-compose up
 Pripadne jako deamon
 docker-compose up -d
 
+Webserver bezi na
+localhost:8080
+(Pri prvnim spusteni chvili trva inicializace mysql, proto muze wordpress hlasit chybu databaze, staci po chvili F5)
+
 Zobrazeni spustenych kontejneru
 docker ps
 
