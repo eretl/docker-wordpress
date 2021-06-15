@@ -32,7 +32,7 @@ sudo systemctl start docker
 sudo systemctl status docker
 ```
 
-Přidání uživatele do skupiny docker  
+Přidání uživatele do skupiny docker (po nastavení je nutný relog, nebo restart)  
 `
 sudo usermod -a -G docker uzivatel
 `
