@@ -53,7 +53,7 @@ V hlavní složce naklonovaného projektu spustit docker-compose
 případně jako deamon  
 `docker-compose up -d`
 
-**První spouštění trvá déle, inicializují se jednotlivé kontejnéry, webová stránka s konfigurací wordpressu může ukázat chybu připojení databáze. Proto počkejte 1-2min na dokončení a aktualizujte stránku.**
+**První spouštění trvá déle, inicializují se jednotlivé kontejnery, webová stránka s konfigurací wordpressu může ukázat chybu připojení databáze. Proto počkejte 1-2min na dokončení a aktualizujte stránku.**
 
 # Zobrazení webové stránky
 Webová stránka je dostupná na
