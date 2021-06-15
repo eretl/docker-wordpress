@@ -11,7 +11,7 @@ docker-compose up -d
 
 Webserver bezi na
 localhost:8080
-(Pri prvnim spusteni chvili trva inicializace mysql, proto muze wordpress hlasit chybu databaze, staci po chvili F5)
+(Pri prvnim spusteni chvili trva inicializace mysql, proto muze wordpress hlasit chybu databaze, staci po cca 1-2min F5)
 
 Zobrazeni spustenych kontejneru
 docker ps
